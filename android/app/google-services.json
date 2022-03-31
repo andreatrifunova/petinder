@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140959539480",
+    "firebase_url": "https://petinder-643dc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "petinder-643dc",
+    "storage_bucket": "petinder-643dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140959539480:android:2ad96a330a3e3b115ebe6d",
+        "android_client_info": {
+          "package_name": "com.example.testtesttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140959539480-4kffiv1ch2o2od73fd9r96ceta5hdp18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8q90e1zeUSJW6p2YzgrFhfsNWbXth320"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140959539480-4kffiv1ch2o2od73fd9r96ceta5hdp18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140959539480-etikiss6e0jkg539q8b0coll1uhjdaof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.petinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
